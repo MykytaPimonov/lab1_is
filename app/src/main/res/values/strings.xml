@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="try_to_guess">Try to guess</string>
+    <string name="play_more">Play more</string>
+    <string name="behind">Number is bigger</string>
+    <string name="ahead">Number is smaller</string>
+    <string name="hit">You are right</string>
+    <string name="input_value">Enter number</string>
+    <string name="error">Illegal input</string>
+    <string name="start">Enter number between 1 and 100</string>
+</resources>
